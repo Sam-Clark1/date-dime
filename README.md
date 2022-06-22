@@ -5,7 +5,7 @@ Date Dime is a quick and easy way to find a restaurant that fits your budget and
 ## Details
 
 - Here's a quick link to try it yourself:
-  https://lyndsclev.github.io/date-dime/
+  https://sam-clark1.github.io/date-dime/
 
 ## Technology Used
 
